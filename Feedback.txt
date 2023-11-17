@@ -1,0 +1,7 @@
+Student - Benjamin Claufield
+
+=> No scalatests, Core functionalities not implemented, No AWS deployment video = -5%
+
+I can see taht you are on the right track with the solution that you were creating. Given more time, I think you would've had a great program here. Good attempt!
+
+Final Grade: 10%
